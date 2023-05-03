@@ -1,6 +1,6 @@
 # Android-Conar_LED™-Lamp-Control
 Aplikasi Android Conar_LED™ kontrol lampu via koneksi Bluetooth Arduino.<br>
-PROGRAMMING USE ANDROID STUDIO.
+📌PROGRAMMING USE ANDROID STUDIO📌
 
 ## 📝 NOTE
 - **Source Code Program Arduinonya: [Code Arduino Conar_LED™](https://github.com/wayan-wynz/INO-Arduino-Bluetooth-Lamp-Control) by Wynz** <br>
